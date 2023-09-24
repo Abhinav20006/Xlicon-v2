@@ -13,18 +13,18 @@ global.antitags = true;
 global.autoTyping = false;                //auto tying by default off.
 global.autoRecord = false;                //auto recording by default off.
 global.groupevent = false;                //This is the new variable for controlling group event handling.
-global.statusseen = true;                 //This is the new variable for controlling status seen.
+global.statusseen = false;                 //This is the new variable for controlling status seen.
 
 
 //
-global.Owner = ["8801853262586","8801928502256"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.OwnerNumber = ["8801853262586","8801928502256"];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.ownertag = ["8801928502256"];
-global.OwnerName = "Slasher";
-global.BotName = "XLICON-MD";
-global.packname = "X-2.0 Bot";                             //Do not change.
-global.author = "By: Slasher";                               //Do not change.
-global.BotSourceCode = "https://github.com/ahil15/Xlicon-v2"; //Do not change.
+global.Owner = ["919446830008"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.OwnerNumber = ["919446830008"];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.ownertag = ["919446830008"];
+global.OwnerName = "𝐀𝐁𝐇𝐈𝐍𝐀𝐕";
+global.BotName = "𝐙𝐘𝐑𝐎𝐗-MD";
+global.packname = "𝐙𝐘𝐑𝐎𝐗";                             //Do not change.
+global.author = "𝐀𝐁𝐇𝐈𝐍𝐀𝐕❤️";                               //Do not change.
+global.BotSourceCode = "https://github.com/Abhinav20006/Xlicon-v2"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/EjsQvJNcFGVCSfaBEIxZm2"; 
 
 
@@ -38,7 +38,7 @@ global.openAiAPI = "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";
 
 
 //
-global.location = "Dhaka, Bangladesh";                   
+global.location = "Kerala, Palakkad";                   
 global.reactmoji = "✅";
 global.themeemoji = "💖";
 global.vidmenu = { url: 'https://tenor.com/view/jujutsu-kaisen0-yuta-okkotsu-gif-26767662' };
