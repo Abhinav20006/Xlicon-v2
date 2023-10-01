@@ -17,9 +17,9 @@ global.statusseen = false;                 //This is the new variable for contro
 
 
 //
-global.Owner = ["919446830008"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.OwnerNumber = ["919446830008"];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.ownertag = ["919446830008"];
+global.Owner = ["12034902941"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.OwnerNumber = ["12034902941"];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.ownertag = ["12034902941"];
 global.OwnerName = "𝐀𝐁𝐇𝐈𝐍𝐀𝐕";
 global.BotName = "𝐙𝐘𝐑𝐎𝐗-MD";
 global.packname = "𝐙𝐘𝐑𝐎𝐗";                             //Do not change.
