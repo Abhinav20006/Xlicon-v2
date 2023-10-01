@@ -41,7 +41,7 @@ global.openAiAPI = "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";
 global.location = "Kerala, Palakkad";                   
 global.reactmoji = "✅";
 global.themeemoji = "💖";
-global.vidmenu = { url: 'https://tenor.com/view/jujutsu-kaisen0-yuta-okkotsu-gif-26767662' };
+global.vidmenu = { url: 'https://i.imgur.com/CpHTrE1.mp4' };
 global.websitex = "https://github.com/ahil15";
 global.lolhuman = "KaysaS";
 
